@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Vue-DotNet-JWT.Server.props" />
+</Project>

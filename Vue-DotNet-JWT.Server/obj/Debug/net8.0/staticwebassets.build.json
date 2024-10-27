@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "UIkQyl4FwWsjCIqiZUz+95B24WPg1dW8DkH2DuTXRoQ=",
+  "Source": "Vue-DotNet-JWT.Server",
+  "BasePath": "_content/Vue-DotNet-JWT.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\fadde\\source\\repos\\Vue-DotNet-JWT\\vue-dotnet-jwt.client\\vue-dotnet-jwt.client.esproj",
+      "Version": 2,
+      "Source": "vue-dotnet-jwt.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

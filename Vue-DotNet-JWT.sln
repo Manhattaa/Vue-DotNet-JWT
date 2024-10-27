@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vue-DotNet-JWT.Server", "Vue-DotNet-JWT.Server\Vue-DotNet-JWT.Server.csproj", "{58AB7A22-3A56-4D53-9B58-62A5D7BC0E1E}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vue-dotnet-jwt.client", "vue-dotnet-jwt.client\vue-dotnet-jwt.client.esproj", "{0F37F709-854F-49DB-826A-342E3425695E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58AB7A22-3A56-4D53-9B58-62A5D7BC0E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AB7A22-3A56-4D53-9B58-62A5D7BC0E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AB7A22-3A56-4D53-9B58-62A5D7BC0E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AB7A22-3A56-4D53-9B58-62A5D7BC0E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F37F709-854F-49DB-826A-342E3425695E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F37F709-854F-49DB-826A-342E3425695E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F37F709-854F-49DB-826A-342E3425695E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0F37F709-854F-49DB-826A-342E3425695E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F37F709-854F-49DB-826A-342E3425695E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F37F709-854F-49DB-826A-342E3425695E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {901E79C6-2FE9-4A9B-BE18-68F0A53972E0}
+	EndGlobalSection
+EndGlobal

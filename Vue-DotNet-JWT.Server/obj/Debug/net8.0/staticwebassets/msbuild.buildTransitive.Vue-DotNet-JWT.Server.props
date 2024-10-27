@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Vue-DotNet-JWT.Server.props" />
+</Project>

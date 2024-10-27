@@ -1,0 +1,6 @@
+@Vue_DotNet_JWT.Server_HostAddress = http://localhost:5264
+
+GET {{Vue_DotNet_JWT.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

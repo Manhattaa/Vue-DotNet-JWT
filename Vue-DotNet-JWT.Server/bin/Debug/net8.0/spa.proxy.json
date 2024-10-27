@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\fadde\\source\\repos\\Vue-DotNet-JWT\\Vue-DotNet-JWT.Server\\..\\vue-dotnet-jwt.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
