@@ -20,12 +20,14 @@ export default {
   },
   methods: {
     async login() {
-      try {
-        const response = await axios.get("http://localhost:7257/auth/login");
-        console.log(response.data);
-        localStorage.setItem("token", response.data.token);
-      } catch (error) {
-        console.log(error);
+  try {
+    const response = await axios.get("https://localhost:7069/auth/login", {
+      withCredentials: true
+    });
+    console.log(response.data);
+    localStorage.setItem("token", response.data.token);
+  } catch (error) {
+    console.error("Error during login request:", error);
       }
     }
   }
