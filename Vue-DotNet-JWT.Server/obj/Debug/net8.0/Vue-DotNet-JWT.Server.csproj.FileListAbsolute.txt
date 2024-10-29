@@ -42,3 +42,4 @@ C:\Users\fadde\source\repos\Vue-DotNet-JWT\Vue-DotNet-JWT.Server\obj\Debug\net8.
 C:\Users\fadde\source\repos\Vue-DotNet-JWT\Vue-DotNet-JWT.Server\obj\Debug\net8.0\Vue-DotNet-JWT.Server.pdb
 C:\Users\fadde\source\repos\Vue-DotNet-JWT\Vue-DotNet-JWT.Server\obj\Debug\net8.0\Vue-DotNet-JWT.Server.genruntimeconfig.cache
 C:\Users\fadde\source\repos\Vue-DotNet-JWT\Vue-DotNet-JWT.Server\obj\Debug\net8.0\ref\Vue-DotNet-JWT.Server.dll
+C:\Users\fadde\source\repos\Vue-DotNet-JWT\Vue-DotNet-JWT.Server\obj\Debug\net8.0\Vue-DotNet-JWT.Server.sourcelink.json
