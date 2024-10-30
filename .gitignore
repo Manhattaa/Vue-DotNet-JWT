@@ -8,3 +8,16 @@
 /.vs/Vue-DotNet-JWT/DesignTimeBuild/.dtbcache.v2
 /.vs/Vue-DotNet-JWT/v17/.futdcache.v2
 /.vs/Vue-DotNet-JWT/v17/.suo
+/Vue-DotNet-JWT.Server/bin/Debug/net8.0/Vue-DotNet-JWT.Server.deps.json
+/Vue-DotNet-JWT.Server/bin/Debug/net8.0/Vue-DotNet-JWT.Server.dll
+/Vue-DotNet-JWT.Server/bin/Debug/net8.0/Vue-DotNet-JWT.Server.exe
+/Vue-DotNet-JWT.Server/bin/Debug/net8.0/Vue-DotNet-JWT.Server.pdb
+/Vue-DotNet-JWT.Server/obj/Debug/net8.0/ref/Vue-DotNet-JWT.Server.dll
+/Vue-DotNet-JWT.Server/obj/Debug/net8.0/refint/Vue-DotNet-JWT.Server.dll
+/Vue-DotNet-JWT.Server/obj/Debug/net8.0/apphost.exe
+/Vue-DotNet-JWT.Server/obj/Debug/net8.0/Vue-DotNet-JWT.Server.AssemblyInfo.cs
+/Vue-DotNet-JWT.Server/obj/Debug/net8.0/Vue-DotNet-JWT.Server.AssemblyInfoInputs.cache
+/Vue-DotNet-JWT.Server/obj/Debug/net8.0/Vue-DotNet-JWT.Server.csproj.CoreCompileInputs.cache
+/Vue-DotNet-JWT.Server/obj/Debug/net8.0/Vue-DotNet-JWT.Server.dll
+/Vue-DotNet-JWT.Server/obj/Debug/net8.0/Vue-DotNet-JWT.Server.pdb
+/Vue-DotNet-JWT.Server/obj/Debug/net8.0/Vue-DotNet-JWT.Server.sourcelink.json
